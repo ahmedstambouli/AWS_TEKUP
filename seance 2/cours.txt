@@ -1,0 +1,28 @@
+client ssh :hewa eli bech yorbet el pc mta3i bel vm eli sna3tha fel aws(linux)
+	-privet key
+	-
+	-public@id
+
+client rdp:kima el ssh ema mta3 el (windows)
+
+key pair:pour acceder le machine a distance
+	private:user
+	public:AWS
+
+t2.micro:
+	t:famille
+	2:group
+	micro:taille
+
+linux macos:open ssh
+windows 10+:open ssh fel systeme
+
+putty :ne marche par .pen lazem nraja3ha .ppk
+putyygen:conversion pen vers ppk
+
+
+security group:
+
+
+
+
